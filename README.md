@@ -15,7 +15,7 @@ I am a **Computer Science and Business Computing major** with a strong foundatio
 
 ## 🚀 Skills & Technologies
 
-- **Languages**: Java, Python, JavaScript, HTML, Delphi, MySQL
+- **Languages**: Java, Python, C#, JavaScript, HTML, Delphi, MySQL
 - **Web Technologies**: WordPress, Make (Automation)
 - **Cybersecurity**: Risk assessment, Incident response simulation
 - **Other Tools**: Git, APIs 
