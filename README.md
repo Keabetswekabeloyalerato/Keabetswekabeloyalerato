@@ -25,7 +25,7 @@ I am a **Computer Science and Business Computing major** with a strong foundatio
 ## 🎓 Education & Certifications
 - **Oprah Winfrey Leadership Academy for Girls**: Class of 2022, Top achiever in 4 subjects, various leadership roles.
 - **University of Cape Town (UCT)**: Bsc Computer Science and Business Computing Major.
-- **Certificates**: Google Data Analyst, AWS Beginner certifications, Generative AI and Large Language Models on AWS, creating websites with WordPress.
+- **Certificates**: Google Data Analyst, AWS Beginner certifications, Generative AI and Large Language Models on AWS, Creating websites with WordPress.
   
 ---
 
