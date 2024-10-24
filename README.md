@@ -59,8 +59,10 @@ I am a **Computer Science and Business Computing major** with a strong foundatio
 ---
 
 ## 📫 How to Reach Me
+- **Portfolio Website**: https://arrow-diadem-411.notion.site/Hello-world-I-am-Keabetswe-Ashley-Meela-12710bdb01e2802d8875c11e02ab0321?pvs=4
 - **LinkedIn**: https://www.linkedin.com/in/keabetswe-meela-b59178298/
 - **Email**: Keabetswekabeloyalerato@gmail.com
+
   
 Feel free to explore my repositories, contribute to my projects, or connect for potential collaborations!
 
