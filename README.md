@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Keabetswe Meela
 
-I am a **Computer Science and Business Computing major** with a strong foundation in various tech fields, including **programming, web development, data analysis, mobile development and design**, and **cybersecurity**. My journey is driven by a love for solving complex problems, learning new technologies, and making a positive impact through innovative solutions. To see some of my work in detail check out my **Portfolio Website**: https://arrow-diadem-411.notion.site/Hello-world-I-am-Keabetswe-Ashley-Meela-12710bdb01e2802d8875c11e02ab0321?pvs=4 .
+I am a **Computer Science and Business Computing major** with a strong foundation in various tech fields, including **programming, web development, data analysis, mobile development and design**, and **cybersecurity**. My journey is driven by a love for solving complex problems, learning new technologies, and making a positive impact through innovative solutions. To see some of my work in detail check out my **portfolio website**: https://arrow-diadem-411.notion.site/Hello-world-I-am-Keabetswe-Ashley-Meela-12710bdb01e2802d8875c11e02ab0321?pvs=4 .
 
 
 ---
